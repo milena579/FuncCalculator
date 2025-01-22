@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\helean\Funcoes\bin\Debug\net9.0\Funcoes.exe
+C:\Users\disrct\Desktop\helean\Funcoes\bin\Debug\net9.0\Funcoes.deps.json
+C:\Users\disrct\Desktop\helean\Funcoes\bin\Debug\net9.0\Funcoes.runtimeconfig.json
+C:\Users\disrct\Desktop\helean\Funcoes\bin\Debug\net9.0\Funcoes.dll
+C:\Users\disrct\Desktop\helean\Funcoes\bin\Debug\net9.0\Funcoes.pdb
+C:\Users\disrct\Desktop\helean\Funcoes\obj\Debug\net9.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\helean\Funcoes\obj\Debug\net9.0\Funcoes.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\helean\Funcoes\obj\Debug\net9.0\Funcoes.AssemblyInfo.cs
+C:\Users\disrct\Desktop\helean\Funcoes\obj\Debug\net9.0\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\helean\Funcoes\obj\Debug\net9.0\Funcoes.sourcelink.json
+C:\Users\disrct\Desktop\helean\Funcoes\obj\Debug\net9.0\Funcoes.dll
+C:\Users\disrct\Desktop\helean\Funcoes\obj\Debug\net9.0\refint\Funcoes.dll
+C:\Users\disrct\Desktop\helean\Funcoes\obj\Debug\net9.0\Funcoes.pdb
+C:\Users\disrct\Desktop\helean\Funcoes\obj\Debug\net9.0\Funcoes.genruntimeconfig.cache
+C:\Users\disrct\Desktop\helean\Funcoes\obj\Debug\net9.0\ref\Funcoes.dll
